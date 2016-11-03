@@ -19,5 +19,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/XEngine/pagedown-flarum.git",
+    "type": "git"
+  },
+  "author": "Cem Yılmaz <tidusdragonh3art@gmail.com>"
 }
