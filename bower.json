@@ -1,0 +1,23 @@
+{
+  "name": "pagedown-flarum",
+  "description": "markdown converter, based on showdown for flarum extension",
+  "main": "node-pagedown.js",
+  "authors": [
+    "Cem Yılmaz <tidusdragonh3art@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "stackoverflow",
+    "flarum",
+    "showdown"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
