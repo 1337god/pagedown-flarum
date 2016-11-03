@@ -1119,7 +1119,6 @@
             dialog.style.padding = "10px;";
             dialog.style.position = "fixed";
             dialog.style.width = "400px";
-            dialog.style.zIndex = "1001";
 
             // The dialog text.
             var question = doc.createElement("div");
