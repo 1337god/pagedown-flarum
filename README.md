@@ -10,7 +10,7 @@ The documentation for PageDown is pretty much a mess. I'm going to try to create
 
 ###JS
 
-```Javascript
+```javascript
 <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Editor.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Sanitizer.js"></script>
